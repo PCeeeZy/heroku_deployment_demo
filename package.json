@@ -1,0 +1,22 @@
+{
+  "name": "heroku_deployment_demo",
+  "version": "1.0.0",
+  "description": "demo for deploying express app with heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCeeeZy/heroku_deployment_demo.git"
+  },
+  "author": "Paul Cwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCeeeZy/heroku_deployment_demo/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "homepage": "https://github.com/PCeeeZy/heroku_deployment_demo#readme"
+}
